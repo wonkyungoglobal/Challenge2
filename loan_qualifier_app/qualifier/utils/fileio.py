@@ -35,7 +35,7 @@ def save_csv(csvpath, data):
     """Writes the CSV file to path provided.
 
     Args:
-        csvpath (Path): The csv file path.
+        csvpath (Path): The csv file path, data
 
     Returns:
         A list of lists that contain the rows to write to a csv file. 

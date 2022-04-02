@@ -16,7 +16,7 @@ This application can be run in the Windows operating system and uses Pythos as t
 See the required programs and contingencies to install prior to running application - ![Requirements](C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\requirements.txt)
 
 Following imports are provided as shown in the screenshot: 
-![App_Imports](C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\Screenshot 2022-04-02 124445.png)
+![App_Imports](.\Screenshot\ 2022-04-02\ 124445.png)
 
 
 
@@ -29,9 +29,9 @@ This application is a Command Line Interface or CLI that can be used to dynamica
 In the terminal, Activate the Dev environment: Conda Activate Dev. 
 
 Then navigate to the directory containing the app.py file and run it using Python command. 
-!["run app.py"]("C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\run app.py.png")
+![run app.py](.\run\ app.py.png")
 
 Follow the prompts the generate the qualifying loan file: 
-!["System generated prompts"]("C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\System generated prompts.png")
+![System generated prompts](.\System\ generated\ prompts.png)
 ---
 

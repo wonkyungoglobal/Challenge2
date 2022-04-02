@@ -1,33 +1,36 @@
-# Project Title
+# Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+The application automates the loan qualification process by identifying banks whose lending criteria match the profile of the borrower. The output is then saved to a csv file if the file is not empty. 
 
 ---
 
 ## Technologies
 
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
+This application can be run in the Windows operating system and uses Pythos as the main programming language. You can use any terminal program such as gitbash along with an editing workspace, i.e., VS Code. The following libraries and modules are imported to run this app: Fire, Sys, Questionary, and Pathlib.  
+
 
 ---
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+See the required programs and contingencies to install prior to running application - !["Requirements"]("C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\requirements.txt")
+
+Following imports are provided as shown in the screenshot: 
+!["App Imports"]("C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\Screenshot 2022-04-02 124445.png")
+
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+This application is a Command Line Interface or CLI that can be used to dynamically filter the list of banks offering loans to fit a customer's financial profile. 
 
+In the terminal, Activate the Dev environment: Conda Activate Dev. 
+
+Then navigate to the directory containing the app.py file and run it using Python command. 
+!["run app.py"]("C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\run app.py.png")
+
+Follow the prompts the generate the qualifying loan file: 
+!["System generated prompts"]("C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\System generated prompts.png")
 ---
 
-## Contributors
-
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
-
----
-
-## License
-
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.

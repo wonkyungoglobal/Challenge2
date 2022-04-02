@@ -1,6 +1,6 @@
 # Loan Qualifier Application
 
-The application automates the loan qualification process by identifying banks whose lending criteria match the profile of the borrower. The output is then saved to a csv file if the file is not empty. 
+This application automates the loan qualification process by identifying banks whose lending criteria matches the profile of the borrower. The output is then saved to a csv file if the file is not empty. 
 
 ---
 

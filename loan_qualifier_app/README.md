@@ -13,10 +13,10 @@ This application can be run in the Windows operating system and uses Pythos as t
 
 ## Installation Guide
 
-See the required programs and contingencies to install prior to running application - ![Requirements](.\requirements.txt)
+See the required programs and contingencies to install prior to running application - ![Requirements](./requirements.txt)
 
 Following imports are provided as shown in the screenshot: 
-![App_Imports](.\Screenshot.png)
+![App_Imports](./Screenshot.png)
 
 
 
@@ -29,9 +29,9 @@ This application is a Command Line Interface or CLI that can be used to dynamica
 In the terminal, Activate the Dev environment: Conda Activate Dev. 
 
 Then navigate to the directory containing the app.py file and run it using Python command. 
-![run app.py](.\run_app.png)
+![run app.py](./run_app.png)
 
 Follow the prompts the generate the qualifying loan file: 
-![System generated prompts](.\System_generated_prompts.png)
+![System generated prompts](./System_generated_prompts.png)
 ---
 

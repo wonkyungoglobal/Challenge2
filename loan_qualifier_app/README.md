@@ -6,7 +6,7 @@ This application automates the loan qualification process by identifying banks w
 
 ## Technologies
 
-This application can be run in the Windows operating system and uses Pythos as the main programming language. You can use any terminal program such as gitbash along with an editing workspace, i.e., VS Code. The following libraries and modules are imported to run this app: Fire, Sys, Questionary, and Pathlib.  
+This application can be run in the Windows operating system and uses Python as the main programming language. You can use any terminal program such as gitbash along with an editing workspace, i.e., VS Code. The following libraries and modules are imported to run this app: Fire, Sys, Questionary, and Pathlib.  
 
 
 ---

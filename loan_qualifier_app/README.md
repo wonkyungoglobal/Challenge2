@@ -13,10 +13,11 @@ This application can be run in the Windows operating system and uses Pythos as t
 
 ## Installation Guide
 
-See the required programs and contingencies to install prior to running application - !["Requirements"]("C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\requirements.txt")
+See the required programs and contingencies to install prior to running application - ![Requirements](C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\requirements.txt)
 
 Following imports are provided as shown in the screenshot: 
-!["App Imports"]("C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\Screenshot 2022-04-02 124445.png")
+![App_Imports](C:\Users\Wonkyung\Desktop\Fintech-Workspace\Challenge Projects\Challenge2\Starter_Code\Challenge2\loan_qualifier_app\Screenshot 2022-04-02 124445.png)
+
 
 
 ---
